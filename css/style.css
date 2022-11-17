@@ -3,14 +3,6 @@
     max-width: 45px;
 }
 
-.nav-custom-der {
-    float: left;
-    margin: 0;
-    left: 30%;
-    transform: translatex(-50%);
-    position: relative;
-}
-
 .nav-link b {
     color: #4283b4;
 }
@@ -24,10 +16,6 @@
     margin: 2rem 0;
     color: #4283b4;
     border: solid 1px #4283b4;
-}
-
-.hover12 {
-    background: #a6f901;
 }
 
 .hover12 {
@@ -48,8 +36,8 @@
     font-family: 'Noto Serif', serif;
 }
 
-body {
-    background-color: #eee;
+.contenido-body {
+    background-color: #f5fcff;
 }
 
 .casa-footer h3 {
